@@ -1,5 +1,4 @@
 package edu.trincoll.koans
-// Rename on import
 import kotlin.random.Random as KRandom
 import java.util.Random as JRandom
 
